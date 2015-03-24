@@ -44,5 +44,5 @@ cd workspace
 git clone https://github.com/brianjgmartin/mathsapp.git
 cd mathsapp
 bundle install
-rails server &
+nohup rails server &
 '"
